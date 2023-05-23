@@ -1,4 +1,4 @@
-# BA865 Intro to Neural Network:Fresh or Rotten fruit/Vegatable Image Classification
+# BA865 Intro to Neural Network:Fresh or Rotten Fruit/Vegatable Image Classification
 Contributors: 
 - Chuheng Yu
 - Kwan Wing Tuet
